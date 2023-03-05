@@ -1,0 +1,12 @@
+.btn-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.btn-container Button {
+    margin-right: 10px;
+}
+
+.btn-container Button a {
+    color: white;
+}
